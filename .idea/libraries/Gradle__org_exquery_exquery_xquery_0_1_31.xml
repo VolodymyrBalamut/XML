@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.exquery:exquery-xquery:0.1.31">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.exquery/exquery-xquery/0.1.31/4dbc57de31ac91070517463a88d2d225ef8dd098/exquery-xquery-0.1.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.exquery/exquery-xquery/0.1.31/72474ead50e29c92b7b8cd9982aa8c2de84e8816/exquery-xquery-0.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<all_books>
+    <book id="00001">
+        <author>Dan Brown</author>
+        <title>Inferno</title>
+        <genre>mystery</genre>
+        <year>2013</year>
+        <publisher>The Lost Symbol</publisher>
+        <annotation>feugiat.</annotation>
+        <pages>609</pages>
+        <sale>6</sale>
+        <city>Exeter</city>
+        <cover>solid</cover>
+        <price>50</price>
+    </book>
+    <book id="00002">
+        <author>Joanne Rowling</author>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <genre>fantasy</genre>
+        <year>1997</year>
+        <publisher>Bloomsbury</publisher>
+        <annotation>dolor. Nulla</annotation>
+        <pages>309</pages>
+        <sale>16</sale>
+        <city>Holywell</city>
+        <cover>soft</cover>
+        <price>20</price>
+    </book>
+    <book id="00003">
+        <author>Joanne Rowling</author>
+        <title>The Chamber of Secrets</title>
+        <genre>fantasy</genre>
+        <year>1998</year>
+        <publisher>Bloomsbury</publisher>
+        <annotation>dolor. Nulla</annotation>
+        <pages>309</pages>
+        <sale>16</sale>
+        <city>Holywell</city>
+        <cover>soft</cover>
+        <price>20</price>
+    </book>
+    <book id="00004">
+        <author>Joanne Rowling</author>
+        <title>The Prisoner of Azkaban</title>
+        <genre>fantasy</genre>
+        <year>1999</year>
+        <publisher>Bloomsbury</publisher>
+        <annotation>dolor. Nulla</annotation>
+        <pages>309</pages>
+        <sale>16</sale>
+        <city>Holywell</city>
+        <cover>soft</cover>
+        <price>20</price>
+    </book>
+    <book id="00005">
+        <author>Joanne Rowling</author>
+        <title>The Goblet of Fire</title>
+        <genre>fantasy</genre>
+        <year>2000</year>
+        <publisher>Bloomsbury</publisher>
+        <annotation>dolor. Nulla</annotation>
+        <pages>309</pages>
+        <sale>16</sale>
+        <city>Holywell</city>
+        <cover>soft</cover>
+        <price>20</price>
+    </book>
+    <book id="00006">
+        <author>Dan Brown</author>
+        <title>The Da Vinci Code</title>
+        <genre>mystery</genre>
+        <year>2003</year>
+        <publisher>Doubleday</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>583</pages>
+        <sale>6</sale>
+        <city>Exeter</city>
+        <cover>solid</cover>
+        <price>15</price>
+    </book>
+    <book id="00007">
+        <author>Dan Brown</author>
+        <title>Angels and Demons</title>
+        <genre>mystery</genre>
+        <year>2000</year>
+        <publisher>Doubleday</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>616</pages>
+        <sale>6</sale>
+        <city>Exeter</city>
+        <cover>solid</cover>
+        <price>19</price>
+    </book>
+    <book id="00008">
+        <author>Paulo Coelho</author>
+        <title>The Alchemist </title>
+        <genre>adventure</genre>
+        <year>1988</year>
+        <publisher>HarperTorch</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>208</pages>
+        <sale>6</sale>
+        <city>Rio de Janeiro</city>
+        <cover>soft</cover>
+        <price>10</price>
+    </book>
+    <book id="00009">
+        <author>Ray Bradbury</author>
+        <title>Fahrenheit 451</title>
+        <genre>dystopian</genre>
+        <year>1953</year>
+        <publisher>Ballantine Books</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>158</pages>
+        <sale>6</sale>
+        <city>New York</city>
+        <cover>soft</cover>
+        <price>30</price>
+    </book>
+    <book id="00010">
+        <author>Ernest Hemingway</author>
+        <title>The Old Man and the Sea</title>
+        <genre>adventure</genre>
+        <year>1952</year>
+        <publisher>Charles Scribner's Sons</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>127</pages>
+        <sale>6</sale>
+        <city>New York</city>
+        <cover>solid</cover>
+        <price>25</price>
+    </book>
+    <book id="00011">
+        <author>Ernest Hemingway</author>
+        <title>A Farewell to Arms</title>
+        <genre>drama</genre>
+        <year>1929</year>
+        <publisher>Scribner</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>355</pages>
+        <sale>6</sale>
+        <city>New York</city>
+        <cover>solid</cover>
+        <price>25</price>
+    </book>
+    <book id="00012">
+        <author>Oscar Wilde</author>
+        <title>The Picture of Dorian Gray</title>
+        <genre>Philosophical fiction</genre>
+        <year>1890</year>
+        <publisher>Lippincott's Monthly Magazine</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>250</pages>
+        <sale>6</sale>
+        <city>Dublin</city>
+        <cover>solid</cover>
+        <price>35</price>
+    </book>
+    <book id="00013">
+        <author>James Joyce</author>
+        <title>Ulysses</title>
+        <genre>Modernist novel</genre>
+        <year>1904</year>
+        <publisher>Sylvia Beach</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>732</pages>
+        <sale>6</sale>
+        <city>Dublin</city>
+        <cover>solid</cover>
+        <price>50</price>
+    </book>
+    <book id="00014">
+        <author>Theodore Dreiser</author>
+        <title>The Financier</title>
+        <genre>adventure</genre>
+        <year>1912</year>
+        <publisher>Harper and Brothers</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>600</pages>
+        <sale>6</sale>
+        <city>Terre Haute</city>
+        <cover>solid</cover>
+        <price>50</price>
+    </book>
+    <book id="00015">
+        <author>Theodore Dreiser</author>
+        <title>The Titan</title>
+        <genre>adventure</genre>
+        <year>1914</year>
+        <publisher>John Lane</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>500</pages>
+        <sale>6</sale>
+        <city>Terre Haute</city>
+        <cover>solid</cover>
+        <price>50</price>
+    </book>
+    <book id="00016">
+        <author>Ernest Hemingway</author>
+        <title>The Sun Also Rises</title>
+        <genre>adventure</genre>
+        <year>1926</year>
+        <publisher>Ballantine Books</publisher>
+        <annotation>amet, risus. Donec nibh</annotation>
+        <pages>280</pages>
+        <sale>6</sale>
+        <city>New York</city>
+        <cover>soft</cover>
+        <price>40</price>
+    </book>
+</all_books>
