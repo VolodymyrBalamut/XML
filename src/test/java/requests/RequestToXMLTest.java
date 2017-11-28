@@ -100,5 +100,13 @@ public class RequestToXMLTest {
         assertEquals(request.getCountOfSoftBooks(), expected);
     }
 
+    @Test
+    public void execute() throws Exception{
+        String expected ="[7]";
+        String query = "let $c := 0 return count(for $x in doc('XML/booksLibrary.xml')/all_books/book " +
+                "where $x/cover='soft' return $x/cover)";
+        String actual = request.execute(query);
+        assertEquals(actual, expected);
+    }
 
 }
